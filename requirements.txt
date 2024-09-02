@@ -1,0 +1,11 @@
+gradio
+networkx
+matplotlib
+langchain
+langchain-experimental
+langchain-groq
+langchain-community
+pandas
+gradio-client
+pillow
+numpy
