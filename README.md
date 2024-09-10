@@ -1,5 +1,7 @@
 # LLM-Powered Graph Q&A and Visualization System
 
+To know more, check out my blog - [Building an Interactive Graph-Based Question-Answering System](https://medium.com/@girishwangikar/building-an-interactive-graph-based-question-answering-system-f5508b830488)
+
 This repository hosts an interactive Gradio-based application that leverages advanced language models and graph processing techniques to provide insightful answers to user queries based on provided text. It also visualizes relationships in the text as a graph, generates a summary, and creates an image based on the summary.
 
 ## Features
@@ -73,4 +75,4 @@ Before running the application, make sure you have the following installed:
 
 Created by Girish Wangikar
 
-Check out more on [LinkedIn](https://www.linkedin.com/in/girish-wangikar/) | [Portfolio](https://girishwangikar.github.io/Girish_Wangikar_Portfolio.github.io/)
+Check out more on [LinkedIn](https://www.linkedin.com/in/girish-wangikar/) | [Portfolio](https://girishwangikar.github.io/Girish_Wangikar_Portfolio.github.io/) | [Technical Blog - Medium](https://medium.com/@girishwangikar/building-an-interactive-graph-based-question-answering-system-f5508b830488)
